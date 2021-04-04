@@ -1,9 +1,9 @@
-# ECommerce page
+# Showroom page
 A web application to demonstrate my skills in HTML5 and CSS3 and JavaScript
 
 ## About The Project
-This app allows you to create a grocery/ shopping list on your computer
-![ECommerce page](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617550765/My%20Website%20Projects/Ecommerce%20-%20simple/ecommerce_dlbve7.png)
+This is a simple web application which displays items available in a store from women, men and kids clothe and accessories.
+![Showroom page](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617550765/My%20Website%20Projects/Ecommerce%20-%20simple/ecommerce_dlbve7.png)
 
 
 <br>
@@ -29,7 +29,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 1. Clone the repo on your local machine
    ```sh
-   git clone https://github.com/Mar-Issah/ECommerce-page--simple.git
+   git clone https://github.com/Mar-Issah/Showroom-website-simple.git
    ```
 2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install live server extension
@@ -72,11 +72,6 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah - masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/ECommerce-page--simple.git](https://github.com/Mar-Issah/ECommerce-page--simple.git)
+Project Link: [https://github.com/Mar-Issah/Showroom-website-simple.git](https://github.com/Mar-Issah/Showroom-website-simple.git)
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
-
-
-
-
-
