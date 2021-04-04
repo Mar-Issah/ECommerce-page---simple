@@ -304,17 +304,17 @@ const menu = [
 ];
 
 const sectionCenter = document.querySelector(".section-center");
-const container = document.querySelector(".btn-container"); //container in which html buttons will be filled dynamically
-//const filterBtns = document.querySelectorAll(".filter-btn");  move down
+const container = document.querySelector(".btn-container"); 
 
-//load items
+
+//load items and display items
 window.addEventListener("DOMContentLoaded", () => {
 	displayMenuItems(menu);
 
 	displayMenuBtns();
 });
 
-// add all the objects dynamically with a function
+// add all the objects dynamically with the displayMenuItems function which accepts an array as argument
 function displayMenuItems(menuItems) {
 	let displayMenu = menuItems.map((item) => {
 		return `<article class="menu-item">
@@ -342,7 +342,6 @@ function displayMenuItems(menuItems) {
 }
 
 //create button dynamically
-//returning each category name using te reduce fxn dynamically
 function displayMenuBtns() {
 	const categories = menu.reduce(
 		(values, item) => {
@@ -362,9 +361,7 @@ function displayMenuBtns() {
 	container.innerHTML = categoryBtns;
 	const filterBtns = document.querySelectorAll(".filter-btn");
 
-	//filter btns
-	////add event listener on btn, target the element id whch is also the category, filter the menu asking if the category id you click === the menu category if so return the item []
-	//if the categoty is all return every thing ie default else return the chosen items. displayMenuItems accepts an array as arguement
+	//filter menu to return the selected category when btn is click else return all the category
 	filterBtns.forEach((btn) => {
 		btn.addEventListener("click", (e) => {
 			const category = e.currentTarget.dataset.id;
