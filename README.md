@@ -29,7 +29,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 1. Clone the repo on your local machine
    ```sh
-   git clone https://github.com/Mar-Issah/Showroom-website-simple.git
+   git clone https://github.com/Mar-Issah/Fashion-and-Clothing-Store
    ```
 2. Download and install [Visual Studio Code](https://code.visualstudio.com/)
 3. Install live server extension
@@ -72,6 +72,6 @@ Distributed under the `MIT License`. See [LICENSE](https://choosealicense.com/li
 
 Marsiya Issah - masy370@gmail.com
 
-Project Link: [https://github.com/Mar-Issah/Showroom-website-simple.git](https://github.com/Mar-Issah/Showroom-website-simple.git)
+Project Link: [https://github.com/Mar-Issah/Fashion-and-Clothing-Store](https://github.com/Mar-Issah/Fashion-and-Clothing-Store)
 
 Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
