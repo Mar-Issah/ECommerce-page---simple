@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Mono:wght@500&display=swap");
 
-/* 
+/*
 ===================
-	GLOBAL 
+	GLOBAL
 ==================*/
 
 :root {
@@ -39,9 +39,9 @@ span {
 	background: var(--lg-blue);
 }
 
-/* 
+/*
 ===================
-	MENU 
+	MENU
 ==================*/
 .menu {
 	padding: 5rem 0;
@@ -86,7 +86,7 @@ span {
 	color: var(--white);
 }
 
-/* 
+/*
 ===================
 	ARTICLE SMALL SCREEN
 ==================*/
@@ -132,7 +132,7 @@ span {
 	font-size: 0.9rem;
 	margin-top: 1rem;
 }
-/* 
+/*
 ===================
 	MEDIA QUERIES BIG SCREEN
 ==================*/
