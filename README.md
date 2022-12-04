@@ -42,7 +42,7 @@ This is JavaScript Web application which runs in the browser. You need a V8 engi
 
 ## Project View
 
-[Click here](https://codepen.io/marsiya-issah/full/eYgRNMP) to view project on CodePen
+[Click here](https://codepen.io/marsiya-issah/full/eYgRNMP) to view project on CodePen.
 
 <br>
 <!-- CONTRIBUTING -->
