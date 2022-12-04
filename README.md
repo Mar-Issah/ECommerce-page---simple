@@ -2,7 +2,7 @@
 A web application to demonstrate my skills in HTML5 and CSS3 and JavaScript.
 
 ## About The Project
-This is a simple web application which displays items available in a store from women, men and kids clothes and accessories.
+This is a simple web application which displays items available in a store this includes women, men and kids clothes and accessories.
 ![Showroom page](https://res.cloudinary.com/dytnpjxrd/image/upload/v1617550765/My%20Website%20Projects/Ecommerce%20-%20simple/ecommerce_dlbve7.png)
 
 
