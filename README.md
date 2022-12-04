@@ -1,5 +1,5 @@
 # Showroom page
-A web application to demonstrate my skills in HTML5 and CSS3 and JavaScript
+A web application to demonstrate my skills in HTML5 and CSS3 and JavaScript.
 
 ## About The Project
 This is a simple web application which displays items available in a store from women, men and kids clothes and accessories.
