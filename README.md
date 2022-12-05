@@ -1,4 +1,4 @@
-# Showroom p
+# Showroom
 A web application to demonstrate my skills in HTML5 and CSS3 and JavaScript.
 
 ## About The Project
