@@ -73,4 +73,4 @@ Marsiya Issah : masy370@gmail.com.
 
 Project Link: [https://github.com/Mar-Issah/Fashion-and-Clothing-Store](https://github.com/Mar-Issah/Fashion-and-Clothing-Store).
 
-Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/)
+Kindly check out more of my projects in [CodePen](https://codepen.io/your-work/).
